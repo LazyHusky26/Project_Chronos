@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-AI Text Archaeologist is an intelligent system that reconstructs fragmented internet messages (slang, acronyms, and incomplete phrases from 2000s-2010s internet culture) into coherent, modern English sentences. It uses advanced AI to understand context, expand slang, and provide relevant historical sources.
+Project Chronos is an intelligent system that reconstructs fragmented internet messages (slang, acronyms, and incomplete phrases from 2000s-2010s internet culture) into coherent, modern English sentences. It uses advanced AI to understand context, expand slang, and provide relevant historical sources.
 
 ### ✨ Key Features
 
